@@ -32,7 +32,3 @@ Start the server
 ## Tech Stack
 
 **Server:** Typescript, PostgreSQL, Nest.js, TypeORM, Passport
-
-**Test:** Jest, SuperTest, TS auto mock
-
-**DevOps:** Docker Compose
